@@ -1,3 +1,0 @@
-public String test(){
-  System.out.print("你好吗？");
-}
